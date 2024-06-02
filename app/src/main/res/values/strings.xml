@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner Calculator_2</string>
+    <string name="result">Result</string>
+    <string-array name="CalcArray">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
